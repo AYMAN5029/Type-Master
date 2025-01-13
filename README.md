@@ -4,6 +4,9 @@
 
 A beautiful and modern typing test application that helps you measure and improve your typing speed. Challenge yourself with our 60-second typing test and get detailed insights into your performance.
 
+## Demo
+https://typemaster-app-deploy.netlify.app/
+
 ## Features
 
 - Real-time typing test with word highlighting
